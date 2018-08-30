@@ -1,3 +1,7 @@
 # YoutubeAPI-Sample
 
-It's just a sample code that can run using http://jsfiddle.net.
+A sample code that have a customize control using Youtube API.
+
+
+Author: Jessica Carolina M. Rodriguez
+Date: August 30, 2018
