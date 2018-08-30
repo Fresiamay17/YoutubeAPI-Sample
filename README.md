@@ -1,6 +1,6 @@
 # YoutubeAPI-Sample
 
-A sample code that have a customize control using Youtube API.
+A sample code that have a customized control using Youtube API.
 
 
 Author: Jessica Carolina M. Rodriguez
